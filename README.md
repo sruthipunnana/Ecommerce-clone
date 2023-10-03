@@ -1,6 +1,6 @@
 # Ecommerce-clone
 
-Implemented [Nxt Trendz application](https://nxttrendzsruthi.ccbp.tech/) which is a clone for ECommerce applications like
+Implemented [Nxt Trendz application](https://nxtTrendzsru.ccbp.tech/) which is a clone for ECommerce applications like
 Amazon, Flipkart where users can login and can see list of products with search, filters, sort
 by, etc..
 ● Implemented Different pages and routes for Login, Products, Product details using
